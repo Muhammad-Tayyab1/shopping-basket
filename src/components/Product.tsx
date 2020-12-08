@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme: Theme) =>
     root: {
       display: "flex",
       flexWrap: "wrap",
-      minWidth: 300,
+      minWidth: 1000,
       width: "100%"
     },
     image: {

@@ -11,6 +11,7 @@ const ShoppingBasket = () => {
     <Provider store={store}>
       <Container maxWidth="md">
         <Box mt={5} mb={5}>
+          <h1 style={{color:'salmon'}}>Shopping-Basket</h1>
           <Product />
         </Box>
         <Box mt={5} mb={5}>
